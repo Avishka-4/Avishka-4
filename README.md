@@ -3,7 +3,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 I am fascinated by the inner workings of digital systems and inspired by the endless possibilities that technology offers. I enjoy tackling complex problems and finding innovative solutions while staying curious about emerging trends in the tech world. Exploring new advancements motivates me to learn and grow continuously. I take joy in breaking down challenging concepts into simpler ideas, which helps me understand and apply them effectively to real-world situations. Technology truly fuels my curiosity and creativity.
 
-* 🌍  I'm based in Sri Lanka
+* 🌍  I'm live in Sri Lanka
 * ✉️  You can contact me at [avishkanishada73@gmail.com](mailto:avishkanishada73@gmail.com)
 
 ### Skills
