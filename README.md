@@ -2,7 +2,7 @@
 <tr>
 <td width="67%" valign="top">
 
-<h1 align="center">Hi 👋, I'm Avishka Nishada Rodrigo</h1>
+<h1 align="center">Avishka Nishada Rodrigo</h1>
 <p align="center">🚀 Aspiring Software Engineer | Competitive Programmer</p>
 
 ---
