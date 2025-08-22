@@ -44,6 +44,7 @@ I'm fascinated by the inner workings of digital systems and inspired by the endl
 <p>
   <a href="https://github.com/Avishka-4"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" alt="GitHub"/></a>
   <!-- Add more socials if needed -->
+  <a href="https://www.linkedin.com/in/avishkanishada/"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" alt="LinkedIn"/></a>
 </p>
 
 </td>
