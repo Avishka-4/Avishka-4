@@ -62,9 +62,23 @@ I'm fascinated by the inner workings of digital systems and inspired by the endl
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Avishka-4&theme=default" alt="Productive Time" width="95%"/>
   <br>
   <!-- Additional analytics -->
-  <img src="https://github-profile-trophy.vercel.app/?username=Avishka-4&theme=flat&no-frame=true&title=Stars,Followers,Commits,Repositories,Issues" alt="GitHub Trophies" width="95%"/>
-  <br>
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=Avishka-4&bg_color=ffffff&color=0d6efd&line=212529&point=0d6efd&hide_border=true" alt="Contribution Graph" width="95%"/>
+  <!-- Two-column: GitHub Trophies (left) and Contribution Graph (right) -->
+<table>
+  <tr>
+    <td width="50%" valign="top" align="center">
+      <h2>GitHub Trophies</h2>
+      <a href="https://github-profile-trophy.vercel.app/?username=Avishka-4">
+        <img src="https://github-profile-trophy.vercel.app/?username=Avishka-4&margin-w=5&margin-h=5&theme=algolia" alt="GitHub Trophies" width="100%">
+      </a>
+    </td>
+    <td width="50%" valign="top" align="center">
+      <h2>Contribution Graph</h2>
+      <a href="https://github-readme-activity-graph.vercel.app/graph?username=Avishka-4&theme=github-compact">
+        <img src="https://github-readme-activity-graph.vercel.app/graph?username=Avishka-4&theme=github-compact" alt="Contribution Graph" width="100%">
+      </a>
+    </td>
+  </tr>
+</table>
 </p>
 
 </td>
