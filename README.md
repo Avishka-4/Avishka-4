@@ -61,24 +61,6 @@ I'm fascinated by the inner workings of digital systems and inspired by the endl
   <br>
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Avishka-4&theme=default" alt="Productive Time" width="95%"/>
   <br>
-  <!-- Additional analytics -->
-  <!-- Two-column: GitHub Trophies (left) and Contribution Graph (right) -->
-<table>
-  <tr>
-    <td width="50%" valign="top" align="center">
-      <h2>GitHub Trophies</h2>
-      <a href="https://github-profile-trophy.vercel.app/?username=Avishka-4">
-        <img src="https://github-profile-trophy.vercel.app/?username=Avishka-4&margin-w=5&margin-h=5&theme=algolia" alt="GitHub Trophies" width="100%">
-      </a>
-    </td>
-    <td width="50%" valign="top" align="center">
-      <h2>Contribution Graph</h2>
-      <a href="https://github-readme-activity-graph.vercel.app/graph?username=Avishka-4&theme=github-compact">
-        <img src="https://github-readme-activity-graph.vercel.app/graph?username=Avishka-4&theme=github-compact" alt="Contribution Graph" width="100%">
-      </a>
-    </td>
-  </tr>
-</table>
 </p>
 
 </td>
