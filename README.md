@@ -43,6 +43,7 @@ I'm fascinated by the inner workings of digital systems and inspired by the endl
 
 <p>
   <a href="https://github.com/Avishka-4"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" alt="GitHub"/></a>
+  <!-- Add more socials if needed -->
   <a href="https://www.linkedin.com/in/avishkanishada/"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" alt="LinkedIn"/></a>
 </p>
 
@@ -63,40 +64,9 @@ I'm fascinated by the inner workings of digital systems and inspired by the endl
   <!-- Additional analytics -->
   <img src="https://github-profile-trophy.vercel.app/?username=Avishka-4&theme=flat&no-frame=true&title=Stars,Followers,Commits,Repositories,Issues" alt="GitHub Trophies" width="95%"/>
   <br>
-  <img src="https://activity-graph.herokuapp.com/graph?username=Avishka-4&theme=react-dark&bg_color=ffffff&color=0d6efd&line=212529&point=0d6efd&hide_border=true" alt="Contribution Graph" width="95%"/>
-  <br>
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=Avishka-4&bg_color=ffffff&color=0d6efd&line=212529&point=0d6efd&hide_border=true" alt="Alternate Contribution Graph" width="95%"/>
+  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=Avishka-4&bg_color=ffffff&color=0d6efd&line=212529&point=0d6efd&hide_border=true" alt="Contribution Graph" width="95%"/>
 </p>
+
 </td>
 </tr>
 </table>
-
----
-
-<h2 align="center">🏆 Achievements & Highlights</h2>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Avishka-4&theme=flat&no-frame=true&title=Stars,Followers,Commits,Repositories,Issues" alt="GitHub Trophies" width="80%"/>
-</p>
-
----
-
-<h2 align="center">🗓️ Weekly Development Breakdown</h2>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Avishka-4&amp;theme=default" alt="Productive Time" width="80%"/>
-</p>
-
----
-
-<h2 align="center">📊 Contribution Graph</h2>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=Avishka-4&bg_color=ffffff&color=0d6efd&line=212529&point=0d6efd&hide_border=true" alt="Contribution Graph" width="80%"/>
-</p>
-
----
-
-<p align="center">
-  <b>Let's Connect & Collaborate!</b> 🚀
-</p>
