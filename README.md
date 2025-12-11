@@ -53,12 +53,10 @@ I'm fascinated by the inner workings of digital systems and inspired by the endl
 <h2 align="center">📈 Analytics</h2>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Avishka-4&show_icons=true&count_private=true&title_color=0d6efd&text_color=212529&icon_color=0d6efd&bg_color=ffffff&hide_border=true&show_owner=true" alt="GitHub stats" width="95%"/>
-  <br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Avishka-4&theme=default" alt="GitHub Streak" width="95%"/>
-  <br>
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Avishka-4&theme=default" alt="Languages" width="95%"/>
-  <br>
+  <br><br>
+  <img src="https://activity-graph.vercel.app/graph?username=Avishka-4&theme=react-dark" alt="Activity Graph" width="95%"/>
+  <br><br>
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Avishka-4&theme=default" alt="Productive Time" width="95%"/>
   <br>
 </p>
